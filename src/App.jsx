@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Router } from 'react-router-dom';
-import { createBrowserHistory } from 'history';
+import { createBrowserHistory,createHashHistory } from 'history';
 
 // Externals
 import { Chart } from 'react-chartjs-2';
@@ -22,7 +22,7 @@ import './assets/scss/index.scss';
 import Routes from './Routes';
 
 // Browser history
-const browserHistory = createBrowserHistory();
+const browserHistory = createHashHistory();
 
 // Configure ChartJS
 Chart.helpers.extend(Chart.elements.Rectangle.prototype, {

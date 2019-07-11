@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a28274f-0e1b-462a-96b7-eb8c3f05bf68" name="Default Changelist" comment="" />
+    <list default="true" id="0a28274f-0e1b-462a-96b7-eb8c3f05bf68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,18 +19,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/views/ProductList/index.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3344">
-              <caret line="165" column="38" selection-start-line="165" selection-start-column="38" selection-end-line="165" selection-end-column="38" />
-              <folding>
-                <element signature="e#226#317#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/ProductList/components/ProductsToolbar/index.jsx">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -42,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
@@ -95,6 +85,18 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-44">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/OrderItemTable/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,7 +119,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Typography</find>
       <find>RecipeReviewCard</find>
       <find>www</find>
       <find>DashboardLayout</find>
@@ -147,6 +148,7 @@
       <find>/product</find>
       <find>product</find>
       <find>snackBar</find>
+      <find>Brow</find>
     </findStrings>
     <dirStrings>
       <dir>D:\STUDY\数据库原理与应用\数据库小学期\FontEnd\Medicine\src\views</dir>
@@ -158,7 +160,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/data/notifications.js" />
         <option value="$PROJECT_DIR$/src/layouts/Dashboard/components/Topbar/components/NotificationList/index.jsx" />
         <option value="$PROJECT_DIR$/src/views/Contract/NewContract/index.jsx" />
         <option value="$PROJECT_DIR$/src/views/Order/OrderItemTable/style.jsx" />
@@ -209,6 +210,7 @@
         <option value="$PROJECT_DIR$/src/layouts/Dashboard/components/Footer/index.jsx" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/App.jsx" />
       </list>
     </option>
   </component>
@@ -405,12 +407,12 @@
       <workItem from="1562816544378" duration="20241000" />
       <workItem from="1562852041618" duration="1622000" />
       <workItem from="1562857510729" duration="1251000" />
-      <workItem from="1562864361722" duration="2497000" />
+      <workItem from="1562864361722" duration="3285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169814000" />
+    <option name="totallyTimeSpent" value="170602000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -423,6 +425,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985294" visible="true" weight="0.22258916" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -461,16 +464,6 @@
         <state>
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -735,16 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Routes.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/views/OrderItemTable/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
@@ -773,6 +756,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Routes.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
