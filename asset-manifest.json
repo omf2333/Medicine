@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Medicine/static/css/main.83fc215f.chunk.css",
-    "main.js": "/Medicine/static/js/main.6b93f8a7.chunk.js",
-    "main.js.map": "/Medicine/static/js/main.6b93f8a7.chunk.js.map",
+    "main.js": "/Medicine/static/js/main.684f8363.chunk.js",
+    "main.js.map": "/Medicine/static/js/main.684f8363.chunk.js.map",
     "runtime~main.js": "/Medicine/static/js/runtime~main.cf0222a3.js",
     "runtime~main.js.map": "/Medicine/static/js/runtime~main.cf0222a3.js.map",
     "static/css/2.fa4a79a6.chunk.css": "/Medicine/static/css/2.fa4a79a6.chunk.css",
     "static/js/2.83cb1457.chunk.js": "/Medicine/static/js/2.83cb1457.chunk.js",
     "static/js/2.83cb1457.chunk.js.map": "/Medicine/static/js/2.83cb1457.chunk.js.map",
     "index.html": "/Medicine/index.html",
-    "precache-manifest.16797a4224ea79a38f4dc20da7d30bf0.js": "/Medicine/precache-manifest.16797a4224ea79a38f4dc20da7d30bf0.js",
+    "precache-manifest.d51f3ddcc974f20baf229ce4f234a0f0.js": "/Medicine/precache-manifest.d51f3ddcc974f20baf229ce4f234a0f0.js",
     "service-worker.js": "/Medicine/service-worker.js",
     "static/css/2.fa4a79a6.chunk.css.map": "/Medicine/static/css/2.fa4a79a6.chunk.css.map",
     "static/css/main.83fc215f.chunk.css.map": "/Medicine/static/css/main.83fc215f.chunk.css.map"
