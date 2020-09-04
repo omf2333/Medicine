@@ -35,7 +35,7 @@
     "history": "^4.7.2",
     "material-table": "^1.40.1",
     "moment": "^2.24.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "notistack": "^0.8.8",
     "prop-types": "^15.7.1",
     "react": "^16.8.6",
